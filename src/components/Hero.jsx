@@ -1,6 +1,6 @@
 import React from 'react';
 import { HERO } from "../constants";
-import carlImg from "../assets/carl.jpeg";
+import lavkush from "../assets/lavkush.jpeg";
 import { motion } from "framer-motion"; // Fixed import statement
 import { GiDuration } from 'react-icons/gi';
 
@@ -35,7 +35,7 @@ const Hero = () => {
                         initial={{ opacity: 0 }} 
                         animate={{ opacity: 1 }} 
                         transition={{ duration: 1 }} 
-                        src={carlImg} 
+                        src={lavkush} 
                         width={550} 
                         height={550} 
                         alt='Lavkush' 

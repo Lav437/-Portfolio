@@ -89,9 +89,9 @@ export const PROJECTS = [
 ];
 
 export const BIO = [
-  "Carl Frank studied computer science at the University of Technology,from which he graduated in 2010. Following his education, he honed his craft and expertise over the course of 10 years at Tech Innovations Inc., where he immersed himself in the world of frontend development.",
-  "In 2021, driven by a shared vision for innovative web solutions and a passion for creating extraordinary user experiences Carl Frank co-founded WebArtistry alongside his creative partner, Jane Doe. Together, they set out to redefine frontend development, infusing their projects with creativity and cutting-edge technology.",
-  "As a multi-disciplinary frontend developer, Carl Frank brings a wealth of skills and expertise to his work. From his deep understanding of HTML, CSS, and JavaScript to his proficiency in modern frameworks like React and Vue.js, Carl Frank possesses a versatile skill set that allows him to craft stunning and unforgettable web experiences for his clients and audiences alike.",
+  "I am Lavkush Kumar, a third-year student at the Indian Institute of Technology (IIT) Tirupati, where I’m pursuing a degree in Computer Science Engineering. My passion lies in full-stack web development, and I love the challenge of creating dynamic and user-friendly applications that combine both design and functionality.",
+  "I actively participate in coding competitions and hackathons, which not only hone my technical skills but also allow me to collaborate with like-minded peers. I'm always eager to learn new tools and frameworks to keep up with the fast-paced tech industry.",
+  "Outside of my studies, I engage with the tech community through workshops and open-source projects. I aspire to build a successful career in software development, aiming to make a positive impact in the tech world through innovation and creativity.",
 ];
 
 export const SKILLS = [

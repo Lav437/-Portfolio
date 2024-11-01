@@ -8,6 +8,7 @@ import Education from './components/Education';
 import Skills from './components/Skills';
 import WorkExperience from './components/WorkExperience';
 import ContactForm from './components/ContactForm';
+import SocialBoxes from './components/SocialBoxes';
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
         <div className='relative z-10 flex flex-col items-center p-4 space-y-8 container mx-auto'>
         
           <Navbar />
+          <SocialBoxes />
           <Hero />
           <Project />
          <Bio />
